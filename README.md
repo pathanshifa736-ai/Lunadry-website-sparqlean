@@ -1,2 +1,2 @@
-# Lunadry-website-sparqlean
+# Lundary-website-sparqlean
 This website is about the laundary website and content All functionlity.
